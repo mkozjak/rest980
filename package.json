@@ -20,7 +20,7 @@
     "config": "^2.0.1",
     "cookie-parser": "^1.4.3",
     "debug": "^3.1.0",
-    "dorita980": "^1.0.0",
+    "dorita980": "github:mkozjak/dorita980#14fcd91b3165f6534023ac0d493db8ddfe12544c",
     "ejs": "^3.1.10",
     "express": "^4.14.0",
     "jsonfile": "^4.0.0",
